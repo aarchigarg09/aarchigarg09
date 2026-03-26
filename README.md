@@ -1,6 +1,6 @@
 # Hi, I'm Aarchi 👋
 
-🎓 B.Tech Student (Your Branch), VIT Bhopal  
+🎓 B.Tech Student (CSE), VIT Bhopal  
 📅 Year: 1st Year  
 🚀 Currently exploring coding, digital tools & problem solving  
 
